@@ -11,7 +11,7 @@ import LivroPage from './pages/LivroAutor';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename='/TrabalhoPortugues_DomCasmurro'>
       <div className="lg:flex min-h-screen">
         <Sidebar />
         <div className="flex-1 p-6 bg-gray-50">
