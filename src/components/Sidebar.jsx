@@ -10,6 +10,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons';
 
 const Sidebar = () => {
+  
   return (
     <div className="w-64 bg-[#1F2A44] text-white flex flex-col">
       {/* Título do Sidebar */}
