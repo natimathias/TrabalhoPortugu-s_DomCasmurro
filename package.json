@@ -1,6 +1,7 @@
 {
   "name": "template-vazio",
   "private": true,
+  "homepage": "https://natimathias.github.io/TrabalhoPortugues_DomCasmurro",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
